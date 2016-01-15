@@ -1,6 +1,7 @@
 // RUN state code
 
 // if there is something to talk to/read
+//
 
 // if we are standing on water, go to SWIM
 if (place_meeting(x, y, obj_water))
