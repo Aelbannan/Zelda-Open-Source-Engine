@@ -1,6 +1,6 @@
 # Zelda Engine
 
-Download the newest release (0.01):
+Download the newest release (0.01) binary :
 [Windows](https://github.com/Aelbannan/Zelda-Open-Source-Engine/releases/download/v0.0.1/Zelda.Engine.v0.01.exe)
 
 **V0.01 Features:**
