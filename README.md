@@ -1,4 +1,4 @@
-# Zelda Engine
+# Zelda Engine for Game Maker Studio
 
 ###Download the newest release (0.01) binary:
 
